@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+bcrypt
+PyJWT
+pydantic
+scikit-learn
+numpy
+beautifulsoup4
+requests
+PyPDF2
+python-docx
+python-multipart

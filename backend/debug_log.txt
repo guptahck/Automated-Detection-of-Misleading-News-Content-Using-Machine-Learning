@@ -1,0 +1,7 @@
+=================================== 
+Running Diagnostics... 
+=================================== 
+  File "<string>", line 1
+    import sys; import traceback; try: import main; print('Backend loaded successfully without errors.'); print('Attempting to check dependencies...'); import fastapi, pydantic, sqlalchemy, passlib, jose, newspaper, PyPDF2, docx; print('All dependencies found.') except Exception as e: print('\n--- ERROR FOUND ---'); traceback.print_exc()
+                                  ^^^
+SyntaxError: invalid syntax
