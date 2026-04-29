@@ -95,8 +95,8 @@ export default function Navbar() {
               </svg>
             </div>
             <div>
-              <span className="font-black text-xl tracking-tight gradient-text">Veritas</span>
-              <div className="hidden sm:block text-[9px] text-slate-600 font-semibold tracking-widest uppercase leading-none -mt-0.5">Fake News Detection</div>
+              <span className="font-black text-lg tracking-tight gradient-text">Automated Detection</span>
+              <div className="hidden sm:block text-[8px] text-slate-600 font-semibold tracking-widest uppercase leading-none -mt-0.5">Misleading News Content</div>
             </div>
           </Link>
 

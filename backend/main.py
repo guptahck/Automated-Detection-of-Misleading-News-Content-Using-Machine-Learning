@@ -10,7 +10,7 @@ import re
 
 models.Base.metadata.create_all(bind=database.engine)
 
-app = FastAPI(title="Fake News Detection System API")
+app = FastAPI(title="Automated Detection System API")
 
 app.add_middleware(
     CORSMiddleware,
@@ -158,8 +158,8 @@ def get_admin_stats(db: Session = Depends(auth.get_db), current_user: models.Use
 
 CHATBOT_RESPONSES = {
     "greet": [
-        "Hello! 👋 I'm **Veritas AI**, your fake news detection assistant. I can help you analyze news articles, understand misinformation tactics, and learn how to verify information. How can I assist you today?",
-        "Hi there! 🛡️ Welcome to Veritas. I'm here to help you fight misinformation. You can paste any news text and I'll analyze it, or ask me anything about fake news detection!",
+        "Hello! 👋 I'm **Detection AI**, your misleading news detection assistant. I can help you analyze news articles, understand misinformation tactics, and learn how to verify information. How can I assist you today?",
+        "Hi there! 🛡️ Welcome to the Automated Detection System. I'm here to help you fight misinformation. You can paste any news text and I'll analyze it, or ask me anything about misleading news detection!",
         "Hey! 🤖 I'm your AI-powered fact-checking assistant. I can analyze text for misinformation, explain how our ML model works, or share tips on spotting fake news. What would you like to know?",
     ],
     "how_works": [

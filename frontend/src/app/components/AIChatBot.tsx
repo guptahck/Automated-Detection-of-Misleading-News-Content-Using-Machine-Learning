@@ -26,7 +26,7 @@ export default function AIChatBot() {
     {
       id: 0,
       role: 'bot',
-      content: "Hello! 👋 I'm **Veritas AI**, your intelligent fake news assistant.\n\nI can:\n🔍 Analyze news text for misinformation\n💡 Share tips on spotting fake news\n🧠 Explain our ML technology\n\nType your question or paste a news article!",
+      content: "Hello! 👋 I'm **Detection AI**, your intelligent misleading news assistant.\n\nI can:\n🔍 Analyze news text for misinformation\n💡 Share tips on spotting misleading news\n🧠 Explain our ML technology\n\nType your question or paste a news article!",
       timestamp: new Date()
     }
   ])
@@ -111,7 +111,7 @@ export default function AIChatBot() {
                 </svg>
               </div>
               <div>
-                <h3 className="text-white font-bold text-sm">Veritas AI Assistant</h3>
+                <h3 className="text-white font-bold text-sm">Detection AI Assistant</h3>
                 <div className="flex items-center gap-1.5">
                   <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
                   <span className="text-white/70 text-[10px] font-medium">Online • Ready to help</span>

@@ -93,7 +93,7 @@ export default function RegisterPage() {
             </svg>
           </div>
 
-          <h2 className="text-3xl font-black text-white mb-3">Join Veritas</h2>
+          <h2 className="text-3xl font-black text-white mb-3">Create Account</h2>
           <p className="text-slate-400 text-sm leading-relaxed mb-10">
             Create your free account and start fighting misinformation with AI-powered analysis.
           </p>

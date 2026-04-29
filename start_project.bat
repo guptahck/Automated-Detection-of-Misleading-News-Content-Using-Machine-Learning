@@ -1,6 +1,6 @@
 @echo off
 echo ===========================================
-echo   Fake News Detection System - Launcher
+echo   Automated Detection of Misleading News Content - Launcher
 echo ===========================================
 echo.
 

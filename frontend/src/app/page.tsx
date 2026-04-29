@@ -205,7 +205,7 @@ export default function Home() {
         </h1>
 
         <p className="fade-up fade-up-delay-2 text-lg md:text-xl text-slate-400 mb-4 max-w-2xl mx-auto leading-relaxed">
-          Veritas uses advanced NLP &amp; Machine Learning to analyze news articles, URLs, 
+          This system uses advanced NLP &amp; Machine Learning to analyze news articles, URLs, 
           and images — giving you instant verdicts with full AI explanations.
         </p>
 
@@ -258,7 +258,7 @@ export default function Home() {
             ⚙️ Simple 3-Step Process
           </div>
           <h2 className="text-3xl md:text-5xl font-black mb-4">
-            How <span className="gradient-text">Veritas Works</span>
+            How <span className="gradient-text">It Works</span>
           </h2>
           <p className="text-slate-500 max-w-lg mx-auto">From submission to verdict in under a second</p>
         </div>
@@ -334,7 +334,7 @@ export default function Home() {
               Ready to Fight <span className="gradient-text">Fake News?</span>
             </h2>
             <p className="text-slate-400 text-lg mb-10 max-w-xl mx-auto leading-relaxed">
-              Join Veritas today and start detecting misinformation with our 
+              Join today and start detecting misinformation with our 
               AI-powered analysis engine — completely free.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

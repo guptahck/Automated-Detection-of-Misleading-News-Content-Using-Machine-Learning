@@ -218,7 +218,7 @@ export default function AdminPage() {
             </div>
             <div>
               <div className="flex justify-between text-sm mb-2">
-                <span className="text-slate-400">Fake News Detection Rate</span>
+                <span className="text-slate-400">Misleading News Detection Rate</span>
                 <span className="text-red-400 font-bold">{fakePercent.toFixed(1)}%</span>
               </div>
               <div className="progress-bar">

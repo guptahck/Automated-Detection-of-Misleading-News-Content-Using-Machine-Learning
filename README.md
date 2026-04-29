@@ -1,6 +1,6 @@
-# 🛡️ Veritas: Fake News Detection System Using Machine Learning
+# 🛡️ Automated Detection of Misleading News Content Using Machine Learning
 
-Welcome to the **Veritas Fake News Detection Project**! This project is designed to accurately identify and flag fake news articles using advanced Machine Learning algorithms. 
+Welcome to the **Automated Detection of Misleading News Content Using Machine Learning** project! This project is designed to accurately identify and flag misleading news articles using advanced Machine Learning algorithms. 
 
 ## ✨ Key Features
 - **Accurate Detection:** Utilizes trained Machine Learning models to analyze text patterns.

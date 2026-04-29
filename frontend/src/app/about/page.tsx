@@ -93,7 +93,7 @@ export default function AboutPage() {
             📘 Final Year Project Documentation
           </div>
           <h1 className="text-4xl md:text-6xl font-black text-white mb-4">
-            About <span className="gradient-text">Veritas</span>
+            About <span className="gradient-text">The Project</span>
           </h1>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto leading-relaxed">
             An advanced AI-powered misinformation detection platform — built using NLP and Machine Learning 

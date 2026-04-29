@@ -69,9 +69,9 @@ export default function LoginPage() {
             </svg>
           </div>
 
-          <h2 className="text-3xl font-black text-white mb-3">Veritas</h2>
+          <h2 className="text-3xl font-black text-white mb-3">Automated Detection</h2>
           <p className="text-slate-400 text-sm leading-relaxed mb-10">
-            AI-powered fake news detection. Analyze text, URLs, and images to identify misinformation instantly.
+            AI-powered misleading news detection. Analyze text, URLs, and images to identify misinformation instantly.
           </p>
 
           {/* Feature List */}

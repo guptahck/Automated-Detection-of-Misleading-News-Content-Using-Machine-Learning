@@ -8,7 +8,7 @@ import AIChatBot from './components/AIChatBot'
 const inter = Inter({ subsets: ['latin'], weight: ['400', '500', '600', '700', '800', '900'] })
 
 export const metadata: Metadata = {
-  title: 'Veritas — AI-Powered Fake News Detection',
+  title: 'Automated Detection of Misleading News Content Using Machine Learning',
   description: 'Advanced machine learning system to detect misinformation in news articles, URLs, and documents with confidence scoring and explainable AI.',
   keywords: 'fake news detection, NLP, machine learning, misinformation, fact checking',
 }

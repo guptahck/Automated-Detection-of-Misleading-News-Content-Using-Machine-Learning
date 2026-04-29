@@ -26,8 +26,8 @@ export default function Footer() {
                 </svg>
               </div>
               <div>
-                <span className="font-black text-xl gradient-text">Veritas</span>
-                <p className="text-[10px] text-slate-600 font-medium tracking-widest uppercase">Fake News Detection System</p>
+                <span className="font-black text-lg gradient-text">Automated Detection</span>
+                <p className="text-[9px] text-slate-600 font-medium tracking-widest uppercase">Misleading News Content</p>
               </div>
             </div>
             <p className="text-slate-500 text-sm leading-relaxed max-w-sm">
@@ -88,7 +88,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-slate-800/60 py-6 flex flex-col sm:flex-row justify-between items-center gap-3">
           <p className="text-slate-600 text-xs">
-            © {year} <span className="text-slate-500 font-semibold">Veritas</span> — Final Year Project Submission
+            © {year} <span className="text-slate-500 font-semibold">Automated Detection</span> — Final Year Project Submission
           </p>
           <div className="flex items-center gap-6">
             <Link href="/about" className="text-xs text-slate-600 hover:text-slate-400 transition-colors">About</Link>
